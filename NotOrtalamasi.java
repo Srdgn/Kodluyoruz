@@ -25,6 +25,8 @@ public class NotOrtalamasi {
 
         double ortalama = (mat + turk + fizik + kimya + tarih + muzik) / 6.0;
         
+        System.out.println("Ortalama: " + ortalama);
+        
         if (ortalama >= 60 ) System.out.println("Sinifi Gecti");
         else System.out.println("Sinifta Kaldi");
 
