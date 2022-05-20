@@ -12,7 +12,7 @@ public class  vucutKitle{
 
         
         
-        System.out.println("Alan = " + 10000*kilo/(boy*boy));
+        System.out.println("Vücut kitle indeksi = " + 10000*kilo/(boy*boy));
 
     }
 }
